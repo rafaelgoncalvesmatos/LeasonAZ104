@@ -1,5 +1,7 @@
 # Introducao
 
+![Backup](../assets/2022-06-12_02-54.png)
+
 Anotacoes das aulas e temas que estou tendo com o assunto de backup na Azure.
 
 ## Detalhes
